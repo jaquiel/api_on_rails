@@ -6,7 +6,7 @@
 
 A primeira versão encontra-se descontinuada e foi planejada para Ruby on Rails 4 que não https://guides.rubyonrails.org/maintenance_policy.html#security-issues[recebe mais atualizações de segurança]. Busquei atualizar este excelente livro, o adaptando a novas versões de Ruby on Rails. Este livro está disponível originalmente em francês e inglês para Ruby on Rails em suas versões 5.2 y 6.0 e em português apenas na versão 6.0 (este livro que está lendo).
 
-NOTE: Este livro também está disponível na linguagem Molière (Isto significa francês).
+NOTA: Este livro também está disponível em francês, inglês e espanhol.
 
 == Sobre o autor
 
