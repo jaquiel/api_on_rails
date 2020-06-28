@@ -1,7 +1,6 @@
 [#chapter00-before]
-= Introdução
 
-== Prefácio
+= Prefácio
 
 "API on Rails 6" é baseado no livro http://apionrails.icalialabs.com/book/["APIs on Rails: Building REST APIs with Rails"] que foi publicado inicialmente em 2014 por https://twitter.com/kurenn[Abraham Kuri] sob as licenças http://opensource.org/licenses/MIT[MIT] e http://people.freebsd.org/~phk/[Beerware].
 
