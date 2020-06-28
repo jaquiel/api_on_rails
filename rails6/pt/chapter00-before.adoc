@@ -1,0 +1,47 @@
+[#chapter00-before]
+= Introdução
+
+== Prefácio
+
+"API on Rails 6" é baseado no livro http://apionrails.icalialabs.com/book/["APIs on Rails: Building REST APIs with Rails"] que foi publicado inicialmente em 2014 por https://twitter.com/kurenn[Abraham Kuri] sob as licenças http://opensource.org/licenses/MIT[MIT] e http://people.freebsd.org/~phk/[Beerware].
+
+A primeira versão encontra-se descontinuada e foi planejada para Ruby on Rails 4 que não https://guides.rubyonrails.org/maintenance_policy.html#security-issues[recebe mais atualizações de segurança]. Busquei atualizar este excelente livro, o adaptando a novas versões de Ruby on Rails. Este livro está disponível originalmente em francês e inglês para Ruby on Rails em suas versões 5.2 y 6.0 e em português apenas na versão 6.0 (este livro que está lendo).
+
+NOTE: Este livro também está disponível na linguagem Molière (Isto significa francês).
+
+== Sobre o autor
+
+Meu nome é http://rousseau-alexandre.fr[Alexandre Rousseau] e sou um desenvolvedor Ruby on Rails com mais de 4 anos de experiência (no momento em que escrevi este livro). Atualmente sou sócio em uma empresa (https://isignif.fr[iSignif]) onde desenvolvo e mantenho um produto SAAS usando Rails. Também contribuo com a comunidade Ruby produzindo e mantendo algumas gems que você pode consultar no https://rubygems.org/profiles/madeindjs[meu perfil em Rubygems.org]. A mayoria dos meus projetos estão no GitHub, sendo que caso desejar, poderá me http://github.com/madeindjs/[seguir].
+
+Todo o código fonte deste livro está em formato https://asciidoctor.org/[Asciidoctor] disponível em https://github.com/madeindjs/api_on_rails[GitHub]. Portanto, sinta-se livre em fazer um https://github.com/madeindjs/api_on_rails/fork[fork] deste projeto, caso deseje melhorá-lo ou corrigir eventuais erros que tenha percebido.
+
+== Direitos autorais e licença
+
+Este livro está sob http://opensource.org/licenses/MIT[licença MIT]. Todo o código fonte do livro está no formato https://pt.wikipedia.org/wiki/Markdown[Markdown] disponível em https://github.com/madeindjs/api_on_rails[GitHub]
+
+.Licença MIT 
+****
+Copyright 2019 Alexandre Rousseau
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+****
+
+"API on Rails 6" de https://github.com/madeindjs/api_on_rails[Alexandre Rousseau] é compartilhado de acordo com a http://creativecommons.org/licenses/by-sa/4.0/[Creative Commons Attribution - Attribution-ShareAlike 4.0 International]. Construído sobre este livro http://apionrails.icalialabs.com/book/.
+
+A capa deste livro usa uma linda foto de https://unsplash.com/@siloine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText[Yoann Siloine] que a publicou em https://unsplash.com[Unsplash].
+
+== Agradecimentos
+
+Deixo aqui um  agradecimento "muito especial" a todos os colaboradores do GitHub que mantêm este livro vivo. Em ordem alfabética:
+
+* https://github.com/airdry[airdry]
+* https://github.com/Landris18[Landris18]
+* https://github.com/lex111[lex111]
+* https://github.com/cuilei5205189[cuilei5205189]
+* https://github.com/franklinjosmell[franklinjosmell]
+* https://github.com/notapatch[notapatch]
+* https://github.com/tacataca[tacataca]

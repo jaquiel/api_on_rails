@@ -10,9 +10,9 @@ v6.0.5, 2020-01-09
 // epub tags
 :copyright: CC-BY-SA 4.0, MIT
 :keywords: Rails, API, Ruby, Software
-:lang: es
+:lang: pt
 :author: Alexandre Rousseau, Jaquiel Paim
-:description: Aprenda as melhores práticas para construir uma API usando Ruby on Rails 6
+:description: Aprenda as melhores prï¿½ticas para construir uma API usando Ruby on Rails 6
 :front-cover-image: image:cover.svg[]
 :revdate: 2020-01-09
 
