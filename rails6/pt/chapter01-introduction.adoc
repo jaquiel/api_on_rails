@@ -5,13 +5,7 @@ Bem-vindo ao livro API on Rails 6, um tutorial com "esteróides" para que você 
 
 Assim que terminar de ler este livro, você poderá criar sua própria API e integrá-la com qualquer aplicação cliente, sendo ela web ou mobile. Todo código apresentado no livro é baseado no Ruby on Rails 6.0 que é a versão atual. 
 
-O próposito deste livro não é somente lhe ensinar como construir uma API com Rails, mas 
-
-Welcome to API on Rails 6, a tutorial on steroid to learn the best way to build your next API with Rails. The purpose of this book is to provide a comprehensive methodology to develop a RESTful API following best practices.
-
-As soon as you finish this book, you will be able to create your own API and integrate it with any client such as a web browser or mobile application. The generated code is built with Ruby on Rails 6.0 which is the current version.
-
-The purpose of this book is not only to teach you how to build an API with Rails but rather to teach you how to build an *evolutive* and *maintainable* API with Rails. That is, improve your current knowledge with Rails. On this journey, you will learn to:
+O objetivo deste livro não é apenas lhe ensinar como construir uma API com Rails, mas também ensiná-lo a criar uma API *evolutiva* e ao mesmo tempo *sustentável* com Rails. Ou seja, melhorar o seu conhecimento atual acerca do Rails. Neste livro, você aprenderá:
 
 - Usar o Git para controle de versão
 - Building JSON responses
