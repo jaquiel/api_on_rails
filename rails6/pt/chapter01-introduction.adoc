@@ -22,14 +22,6 @@ Nos próximos capítulos, iremos construir a aplicação usando um simples méto
 
 A aplicação final será uma loja virtual onde os usuários poderão fazer pedidos, enviar produtos e muito mais. Existem muitas opções disoníveis para se configurar uma loja on-line, como por exemplo http://shopify.com[Shopify], http://spreecommerce.com/[Spree] ou http://magento.com[Magento]. 
 
-I strongly recommend you follow all the steps in this book. Try not to skip chapters because I will give you some tips and tricks to improve your skills throughout the book. You can consider yourself the main character of a video game who gain a level in each chapter.
-
-In this first chapter I will explain how to configure your environment (in case you don't already have it). Then we will create an application called `market_place_api`. I will ensure that I teach you the best practices I have learned during my experience. This means that we'll start using *Git* just after initializing the project.
-
-We'll build the application following a simple working method that I use daily in the next chapters. We will develop the entire application using Test Driven Development (TDD). I will also explain the interest of using an API for your next project and choosing a suitable response format such as JSON or XML. Further on, we will get our hands on the code and complete the basics of the application by building all the necessary roads. We will also secure access to the API by building authentication by exchanging HTTP headers. Finally, in the last chapter, we will add some optimization techniques to improve the structure and response times of the server.
-
-The final application will scratch the surface of being a market place where users will be able to place orders, upload products and more. There are plenty of options out there to set up an online store, such as http://shopify.com[Shopify], http://spreecommerce.com/[Spree] or http://magento.com[Magento].
-
 
 == Convenções neste livro
 
@@ -39,9 +31,6 @@ The conventions on this book are based on the ones from http://www.railstutorial
 
 Usarei muitos exemplos usando comandos CLI. Me desculpe caso você seja usuário do Windows, mas não irei usar o `cmd` (Prompt de comando do Windows), usarei todos os exemplos baseados no prompt de comando no estilo Unix, como segue:
  
-
-I’ll be using many examples using command-line commands. I won’t deal with windows `cmd` (sorry guys), so I’ll based all the examples using Unix-style command line prompt, as follows:
-
 [source,bash]
 ----
 $ echo "A command-line command"
@@ -56,13 +45,9 @@ I’ll be using some guidelines related to the language, what I mean by this is:
 
 Se por alguma razão você encontrar algum erro quando executa um comando, ao invés de tentar explicar todos os resultados possíveis, recomendo que você `dê uma googleada`, o que não considero uma  má prática. Mas se você gosta de tomar uma cerveja ou tiver algum problema com o tutorial, poderá mailto:jaquiel.paim@gmail.com[me enviar um email].
 
-If for any reason you encounter some errors when running a command, rather than trying to explain every possible outcome, I’ll will recommend you to `google it', which I don’t consider a bad practice or whatsoever. But if you feel like want to grab a beer or have troubles with the tutorial you can always mailto:contact@rousseau-alexandre.fr[email me].
-
 == Ambiente de desenvlvimento
 
-Um das tarefas mais árduas para quase todo desenvolvedor é configurar o ambiente de desenvolvimento, mas contanto que você faça, os passos a seguir podem ser a fatia do bolo e uma ótima recompensa. Então eu irei guiá-lo para que se sinta motivado.
-
-One of the most painful parts for almost every developer is setting everything up, but as long as you get it done, the next steps should be a piece of cake and well rewarded. So I will guide you to keep you motivated.
+Uma das tarefas mais árduas para quase todo desenvolvedor é configurar o ambiente de desenvolvimento, mas contanto que você faça, os passos a seguir podem ser a fatia do bolo e uma ótima recompensa. Então eu irei guiá-lo para que se sinta motivado.
 
 === Editores de texto e Terminal
 
